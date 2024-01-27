@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Behind-the-Scenes-React/static/css/main.64815e3c.css",
+    "main.js": "/Behind-the-Scenes-React/static/js/main.34831d1d.js",
+    "static/media/logo.png": "/Behind-the-Scenes-React/static/media/logo.7b6187718e2e001dbf85.png",
+    "index.html": "/Behind-the-Scenes-React/index.html",
+    "main.64815e3c.css.map": "/Behind-the-Scenes-React/static/css/main.64815e3c.css.map",
+    "main.34831d1d.js.map": "/Behind-the-Scenes-React/static/js/main.34831d1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64815e3c.css",
+    "static/js/main.34831d1d.js"
+  ]
+}
